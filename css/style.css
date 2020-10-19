@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body {
+    background: rgb(79, 142, 236);
+    font: normal 13pt Arial;
+}
+
+header {
+    color: #FFF;
+    text-align: center;
+}
+
+section {
+    background: #FFF;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, .3);
+}
+
+input#nNumber {
+    width: 160px;
+}
+
+input#finalizar {
+    position: relative;
+    width: 80px;
+    height: 50px;
+    float: right;
+}
+
+button#addBtn {
+    margin-left: 23px;
+}
+
+select#msg-box {
+    width: 400px;
+}
+select#msg-box option {
+    margin: 0px;
+}
+
+div#result {
+    margin: 20px 80px 20px;
+}
+
+footer {
+    color: #FFF;
+    text-align: center;
+    font-style: italic;
+    margin: 20px;
+}
