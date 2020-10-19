@@ -1,4 +1,4 @@
-let aNumber = [10, 20, 30, 40, 50] 
+let aNumber = [] 
 let error   = '';
 
 //Verifica se o número ja exista na lista
